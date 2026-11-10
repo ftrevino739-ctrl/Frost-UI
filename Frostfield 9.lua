@@ -1,8 +1,5 @@
 --[[
 	Frostfield
-	Rayfield-compatible UI — ice neon chrome.
-	Toggle: return false  or  :Set(false)  = no se enciende.
-	RequiredFlags = {"Desync","SafeDesync"}  = no prende si faltan.
 ]]
 
 local Players = game:GetService("Players")
