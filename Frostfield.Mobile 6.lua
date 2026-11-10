@@ -1,9 +1,5 @@
 --[[
-	Frostfield  —  PARA MOBIL
-	Rayfield-compatible UI for phones / tablets.
-	Same functions, same API. Layout only scales to mobile.
-	Toggle: return false  or  :Set(false)  = no se enciende.
-	RequiredFlags = {"Desync","SafeDesync"}  = no prende si faltan.
+	Frostfield  —  For Mobile
 ]]
 
 local Players = game:GetService("Players")
